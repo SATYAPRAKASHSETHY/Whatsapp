@@ -139,17 +139,3 @@ def activity_heatmap(selected_user,df):
     return user_heatmap
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
